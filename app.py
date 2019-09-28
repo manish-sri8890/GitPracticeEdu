@@ -1,2 +1,3 @@
-name= "Manish"
+import os
 print(name)
+print("Manish")
